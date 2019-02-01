@@ -1,0 +1,6 @@
+name="Disparity Build"
+url="https://archive.org/download/pings/disparity.zip"
+img="https://raw.githubusercontent.com/IPings/disparity-files/master/logo.png"
+fanart="https://raw.githubusercontent.com/IPings/disparity-files/master/splash.jpg"
+description="Disparity Build"
+version="2.0"
